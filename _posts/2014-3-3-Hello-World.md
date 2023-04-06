@@ -1,4 +1,4 @@
-# CooperationTeamG Learning things
+# CooperationTeamG Learnings things
 ---
 layout: post
 title: You're up and running!
